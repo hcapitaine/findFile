@@ -6,7 +6,6 @@ Being able to retrieve the absolute path of file within a file hierarchy whose r
 
 For example, I want to find a file named result.json with /tmp/lost root folder.
 
-For your information, 
 
 ### Use cases
 * The folder doesn't exist, return an error to the user.
